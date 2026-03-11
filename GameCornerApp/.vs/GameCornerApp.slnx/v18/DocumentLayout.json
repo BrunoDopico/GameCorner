@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah\\source\\repos\\GameCorner\\GameCornerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8BFDFF-DFE5-4B1B-B04D-11C278140CD2}|Core\\Core.csproj|c:\\users\\sarah\\source\\repos\\gamecorner\\gamecornerapp\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8BFDFF-DFE5-4B1B-B04D-11C278140CD2}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC85DF9-E9EA-4CCD-9FAC-93CA2F9131CF}|GameCornerApp\\GameCornerApp.csproj|c:\\users\\sarah\\source\\repos\\gamecorner\\gamecornerapp\\gamecornerapp\\gamecornerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EC85DF9-E9EA-4CCD-9FAC-93CA2F9131CF}|GameCornerApp\\GameCornerApp.csproj|solutionrelative:gamecornerapp\\gamecornerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCornerApp",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GameCorner\\GameCornerApp\\GameCornerApp\\GameCornerApp.csproj",
+              "RelativeDocumentMoniker": "GameCornerApp\\GameCornerApp.csproj",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GameCorner\\GameCornerApp\\GameCornerApp\\GameCornerApp.csproj",
+              "RelativeToolTip": "GameCornerApp\\GameCornerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T20:25:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GameCorner\\GameCornerApp\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GameCorner\\GameCornerApp\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:26:23.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
